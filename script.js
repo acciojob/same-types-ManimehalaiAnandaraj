@@ -1,7 +1,8 @@
 function isSameType(value1, value2) {
   //your js code here
 r1
-	
+
+	3
 }
 
 // do not change the code below.
