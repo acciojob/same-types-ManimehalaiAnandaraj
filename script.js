@@ -2,7 +2,7 @@ function isSameType(value1, value2) {
   //your js code here
 
 
-	typeof(return true);
+	return true/false;
 	
 }
 
