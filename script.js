@@ -4,7 +4,8 @@ If(typeof(value1) === typeof(value2))
 {
 return true;
 }
-return typeof value1 === typeof value2;
+return false;
+	
 }
 
 
