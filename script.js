@@ -4,8 +4,12 @@ if(typeof(value1)=== typeof(value2))
 {
 Return true;
 }
+	else
+{
+	return false;
 }
-return false;
+}
+
 
 
 // do not change the code below.
