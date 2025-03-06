@@ -5,9 +5,9 @@ if(typeof(value1) == typeof(value2))
 return true;
 }
 	else
-{
+
 	return false;
-}
+
 }
 
 
